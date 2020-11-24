@@ -21,7 +21,6 @@ interface A {
 	hello: string;
 	foo: number;
 }
-
 ```
 
 # Found a typo?

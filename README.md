@@ -7,6 +7,7 @@
 yarn prettier:write
 yarn embedme:write
 ```
+
 # One way publishing of your blog posts from a git repo to dev.to
 
 ## First, what is dev.to?
