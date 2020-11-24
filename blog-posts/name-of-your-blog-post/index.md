@@ -1,6 +1,6 @@
 ---
 published: false
-title: 'Your title'
+title: 'name of your blogpost'
 cover_image: 'https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-REPO/master/blog-posts/NAME-OF-YOUR-BLOG-POST/assets/your-asset.png'
 description: 'Description of the article'
 tags: tag1, tag2, tag3
@@ -19,7 +19,9 @@ You can also take advantage of [embedme](https://github.com/zakhenry/embedme) to
 
 interface A {
 	hello: string;
+	foo: number;
 }
+
 ```
 
 # Found a typo?

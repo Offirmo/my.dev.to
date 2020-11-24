@@ -3,6 +3,10 @@
 -  https://dev.to/maxime1992/manage-your-dev-to-blog-posts-from-a-git-repo-and-use-continuous-deployment-to-auto-publish-update-them-143j
 -  https://dev.to/beeman/automate-your-dev-posts-using-github-actions-4hp3
 
+```bash
+yarn prettier:write
+yarn embedme:write
+```
 # One way publishing of your blog posts from a git repo to dev.to
 
 ## First, what is dev.to?
