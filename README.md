@@ -1,6 +1,7 @@
 (based on https://github.com/maxime1992/dev.to, forked 2020/11/24)
-* https://dev.to/maxime1992/manage-your-dev-to-blog-posts-from-a-git-repo-and-use-continuous-deployment-to-auto-publish-update-them-143j
-* https://dev.to/beeman/automate-your-dev-posts-using-github-actions-4hp3
+
+-  https://dev.to/maxime1992/manage-your-dev-to-blog-posts-from-a-git-repo-and-use-continuous-deployment-to-auto-publish-update-them-143j
+-  https://dev.to/beeman/automate-your-dev-posts-using-github-actions-4hp3
 
 # One way publishing of your blog posts from a git repo to dev.to
 
@@ -12,11 +13,11 @@ https://dev.to is a free and open source blogging platform for developers.
 
 ## Why would I want to put all my blog posts on a git repo?
 
-- Don't be afraid to mess up with one of your articles while editing it
-- Same good practices as when you're developing (format, commits, saving history, compare, etc)
-- Use prettier to format the markdown and all the code
-- Let people contribute to your article by creating a PR against it (tired of comments going sideways because of some typos? Just let people know they can make a PR at the end of your blog post)
-- Create code examples close to your blog post and make sure they're correct thanks to [Embedme](https://github.com/zakhenry/embedme) (_\*1_)
+-  Don't be afraid to mess up with one of your articles while editing it
+-  Same good practices as when you're developing (format, commits, saving history, compare, etc)
+-  Use prettier to format the markdown and all the code
+-  Let people contribute to your article by creating a PR against it (tired of comments going sideways because of some typos? Just let people know they can make a PR at the end of your blog post)
+-  Create code examples close to your blog post and make sure they're correct thanks to [Embedme](https://github.com/zakhenry/embedme) (_\*1_)
 
 _\*1: Embedme allows you to write code in actual files rather than your readme, and then from your Readme to make sure that your examples are matching those files._
 
@@ -28,10 +29,10 @@ There's a `dev-to-git.json` file where you can define an array of blog posts, e.
 
 ```json
 [
-  {
-    "id": 12345,
-    "relativePathToArticle": "./blog-posts/name-of-your-blog-post/name-of-your-blog-post.md"
-  }
+	{
+		"id": 12345,
+		"relativePathToArticle": "./blog-posts/name-of-your-blog-post/name-of-your-blog-post.md"
+	}
 ]
 ```
 
@@ -70,4 +71,4 @@ https://dev.to/\<YOUR DEV.TO NICKNAME\>
 
 ## Blog posts
 
-- [\<BLOG POST NAME\>](https://dev.to/\<BLOG POST LINK\>)
+-  [\<BLOG POST NAME\>](https://dev.to/\<BLOG POST LINK\>)

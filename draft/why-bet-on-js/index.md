@@ -7,16 +7,16 @@ tags:
 ---
 
 According to [dev.to](https://dev.to/t/javascript):
+
 > Once relegated to the browser as one of the 3 core technologies of the web, JavaScript can now be found almost anywhere you find code.
 >
 > JavaScript developers move fast and push software development forward; they can be as opinionated as the frameworks they use
 
-
 **As a software engineer in 2020, why should you invest or keep investing on JavaScript?**
 
-* **This post is not a troll**: it attempts to review JavaScript's unique strengths in depth with up-to-date infos
+-  **This post is not a troll**: it attempts to review JavaScript's unique strengths in depth with up-to-date infos
 
-* **Disclaimer**: 👨‍💻 I'm a fullstack web engineer so I'm obviously biased.
+-  **Disclaimer**: 👨‍💻 I'm a fullstack web engineer so I'm obviously biased.
 
 ---
 
@@ -27,6 +27,7 @@ _**TL;DR:** In my opinion: The JavaScript ecosystem is better than ever and fulf
 Now let's elaborate this advocacy, followed by a Q&A.
 
 First, JavaScript is a **mere tool**. What we're after is:
+
 1. the end goal: **solve problems through programming**
 2. the side goal: **do it efficiently** = speed and ease of development, deployment, maintenance
 
@@ -42,34 +43,36 @@ JavaScript has a **unique** value proposition that all other programming ecosyst
 
 Let's elaborate on those value points:
 
-- ⚡️ JavaScript apps are delivered **instantly**: as quick as typing a URL in a browser. **No installation needed**. Additional benefit: updates are seamless as well.
-   - In comparison: How would you would deliver your Python or Java solution to customers?
-   - Also: Web apps evades walled gardens such as the app stores.
+-  ⚡️ JavaScript apps are delivered **instantly**: as quick as typing a URL in a browser. **No installation needed**. Additional benefit: updates are seamless as well.
 
-- 👷🏻 JavaScript apps are accessible **to everyone**: every device has a pre-installed browser, everyone is familiar with accessing a web url and everyone has the permissions to do so. Even smartphones.
-   - In comparison: How would you get your mum to try your Java code?
-   - How would you get install rights for a corporate customer?
+   -  In comparison: How would you would deliver your Python or Java solution to customers?
+   -  Also: Web apps evades walled gardens such as the app stores.
 
-- 🧸 JavaScript apps are **easy to use** for the end user: I'm thinking about graphical UX here. JavaScript is integrated into browsers which are all about powerful and rich graphical user interfaces.
-   - In comparison: other languages painfully relies on clunky UI layers which pale in comparison of HTML/CSS.
-   - for additional end-user ease-of-use, JavaScripts apps can be packaged into mobile apps (PWA, Cordova, React native…) or desktop apps (Electron)
+-  👷🏻 JavaScript apps are accessible **to everyone**: every device has a pre-installed browser, everyone is familiar with accessing a web url and everyone has the permissions to do so. Even smartphones.
 
-- 💎 JavaScript apps are **high quality**: look at facebook.com or atlassian.com, reliable, SpaceX
+   -  In comparison: How would you get your mum to try your Java code?
+   -  How would you get install rights for a corporate customer?
 
-- ✈️ The JavaScript language is **clean, logical and composes well**: TODO Kotlin borrowing the syntax
+-  🧸 JavaScript apps are **easy to use** for the end user: I'm thinking about graphical UX here. JavaScript is integrated into browsers which are all about powerful and rich graphical user interfaces.
 
-- 🤹‍♂️ The JavaScript ecosystem is extremely **versatile**
+   -  In comparison: other languages painfully relies on clunky UI layers which pale in comparison of HTML/CSS.
+   -  for additional end-user ease-of-use, JavaScripts apps can be packaged into mobile apps (PWA, Cordova, React native…) or desktop apps (Electron)
 
-- 💪 The JavaScript language has **unique strengths** integrated async
+-  💎 JavaScript apps are **high quality**: look at facebook.com or atlassian.com, reliable, SpaceX
 
-- 🌱 The JavaScript language is **evolving healthily** ES5+ rejected
+-  ✈️ The JavaScript language is **clean, logical and composes well**: TODO Kotlin borrowing the syntax
 
-- The JavaScript community is **huge**
+-  🤹‍♂️ The JavaScript ecosystem is extremely **versatile**
 
-- industry involvement is **also huge**: AWS, facebook
+-  💪 The JavaScript language has **unique strengths** integrated async
 
-- JavaScript job opportunities are **huge**
+-  🌱 The JavaScript language is **evolving healthily** ES5+ rejected
 
+-  The JavaScript community is **huge**
+
+-  industry involvement is **also huge**: AWS, facebook
+
+-  JavaScript job opportunities are **huge**
 
 ## Trade offs
 
@@ -88,7 +91,6 @@ can be hard evaluating content found on the internet
 ### Too powerful / complexity of the ecosystem
 
 The browser environment has a huge surface and one can't learn everything quickly. For a new starter, this can be daunting.
-
 
 ### dependency on npm
 
@@ -130,7 +132,6 @@ TODO elaborate
 
 TODO
 
-
 ### But JavaScript has no types
 
 Types are just an aspect of a language. There are pros & cons as well.
@@ -139,15 +140,16 @@ TypeScript.
 
 ### Why not [some programming language]?
 
-
 ### Why not Python?
 
 Pros:
+
 1. top programming language of the moment according to some statistics
 1. widely perceived as "easy to learn"
 1. has some niche applications such as data processing or ML
 
 Cons:
+
 1. slower, no UI, no easy deployment
 1. Python's niche are brittle, more luck than affinity
 
@@ -159,17 +161,17 @@ See [Python now needs to change](https://developers.slashdot.org/story/20/10/25/
 >
 > (...) "It's an embarrassing admission, but it's incredibly awkward to use Python to build and distribute any applications that have actual graphical user interfaces," he tells ZDNet. "On desktops, Python is never the first-class language of the operating system, and it must resort to third-party frameworks (…)" Packaging and redistribution of Python desktop applications are also really difficult (...)
 
-
 ### Why not Java?
 
 Pros:
+
 1. Java is slightly faster, can handle bigger workloads and is more established/stable
 
 Cons:
+
 1. Java starts to feel its age: old syntax, old paradigms (OOP), no easy async
 1. Java is not integrated in browsers, it needs an install steps and corresponding permissions
 1. Java is now suffering what it once did to previous language: leveraging front-end dominance to win the back-end
-
 
 > Aging programming languages suffer from a bad plastic surgery addiction. They are desperately injecting new features in the fevered hope of remaining popular, or at least fashionable. (…) I think that we should instead praise JavaScript’s inner beauty.
 
@@ -188,14 +190,14 @@ Also see [The war for the browser, Oct. 2020](https://developers.slashdot.org/st
 ### Why not C++
 
 Pros:
+
 1. speed, C++ is a compiled language in a completely different category
 
 Cons:
+
 1. all the usual:
 1. C++ is aging and hard to evolve
 
 ### Why not Golang?
 
 ### JavaScript is not a serious language
-
-
