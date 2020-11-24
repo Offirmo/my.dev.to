@@ -2,7 +2,7 @@
   "name": "dev.to",
   "repository": {
     "type": "git",
-    "url": "https://github.com/YOUR-USERNAME/YOUR-REPO.git"
+    "url": "https://github.com/Offirmo/my.dev.to.git"
   },
   "scripts": {
     "prettier": "prettier",
@@ -15,8 +15,8 @@
     "dev-to-git": "dev-to-git"
   },
   "dependencies": {
-    "dev-to-git": "1.1.0",
-    "embedme": "1.11.0",
-    "prettier": "1.18.2"
+    "dev-to-git": "^1",
+    "embedme": "^1",
+    "prettier": "^1"
   }
 }

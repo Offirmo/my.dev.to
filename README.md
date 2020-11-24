@@ -1,3 +1,7 @@
+(based on https://github.com/maxime1992/dev.to, forked 2020/11/24)
+* https://dev.to/maxime1992/manage-your-dev-to-blog-posts-from-a-git-repo-and-use-continuous-deployment-to-auto-publish-update-them-143j
+* https://dev.to/beeman/automate-your-dev-posts-using-github-actions-4hp3
+
 # One way publishing of your blog posts from a git repo to dev.to
 
 ## First, what is dev.to?
@@ -33,7 +37,7 @@ There's a `dev-to-git.json` file where you can define an array of blog posts, e.
 
 ## How can I find the ID of my blog post on dev.to?
 
-This repository is made to **edit** a blog post. Whether it's published or just a draft, you **have to create it** on dev.to directly. Unfortunately, dev.to does not display the ID of the blog post on the page. So once it's created, you can open your browser console and paste the following code to retrieve the blog post ID:  
+This repository is made to **edit** a blog post. Whether it's published or just a draft, you **have to create it** on dev.to directly. Unfortunately, dev.to does not display the ID of the blog post on the page. So once it's created, you can open your browser console and paste the following code to retrieve the blog post ID:
 `$('div[data-article-id]').getAttribute('data-article-id')`
 
 ## How do I configure every blog post individually?
