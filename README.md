@@ -2,6 +2,7 @@
 
 -  https://dev.to/maxime1992/manage-your-dev-to-blog-posts-from-a-git-repo-and-use-continuous-deployment-to-auto-publish-update-them-143j
 -  https://dev.to/beeman/automate-your-dev-posts-using-github-actions-4hp3
+-  https://github.com/Offirmo/my.dev.to/actions
 
 ```bash
 yarn prettier:write
