@@ -196,7 +196,6 @@ Now that we have a basic understanding of HTML, CSS and JS, let's turn our docum
 <script>
 	console.log('Hello, JS!');
 </script>
-
 ```
 
 Note that you have to come up with your own message!
