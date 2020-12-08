@@ -1,12 +1,27 @@
 (based on https://github.com/maxime1992/dev.to, forked 2020/11/24)
 
--  https://dev.to/maxime1992/manage-your-dev-to-blog-posts-from-a-git-repo-and-use-continuous-deployment-to-auto-publish-update-them-143j
--  https://dev.to/beeman/automate-your-dev-posts-using-github-actions-4hp3
--  https://github.com/Offirmo/my.dev.to/actions
+- https://dev.to/maxime1992/manage-your-dev-to-blog-posts-from-a-git-repo-and-use-continuous-deployment-to-auto-publish-update-them-143j
+- https://github.com/maxime1992/dev-to-git
+- https://dev.to/beeman/automate-your-dev-posts-using-github-actions-4hp3
+- https://github.com/Offirmo/my.dev.to/actions
+- https://dev.to/p/editor_guide
 
 ```bash
 yarn prettier:write
 yarn embedme:write
+```
+
+front matter
+```md
+---
+published: false
+title: 'HTML/CSS/JS Intro: Hello world'
+cover_image: 'https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-REPO/master/blog-posts/NAME-OF-YOUR-BLOG-POST/assets/your-asset.png'
+description: 'An intro to HTML / CSS / JS for beginners'
+tags: webdev, beginners, html, css, javascript
+series:
+canonical_url:
+---
 ```
 
 # One way publishing of your blog posts from a git repo to dev.to
