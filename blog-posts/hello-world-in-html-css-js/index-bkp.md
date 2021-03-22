@@ -2,10 +2,10 @@
 published: false
 title: 'HTML/CSS/JS Intro: Hello world'
 description: 'An intro to HTML / CSS / JS for beginners'
-tags: webdev, beginners, html, css, javascript
+tags: beginners, html, css, javascript
 ---
 
-Welcome to the [Information Age](https://en.wikipedia.org/wiki/Information_Age)!
+Welcome to the [Information Age](https://en.wikipedia.org/wiki/Information_Age):
 A new era of the human civilization powered mostly by the web technologies!
 
 **Web Development** is a vibrant and powerful field of computer science.
@@ -15,17 +15,17 @@ This article will drive you towards a very simple **hello world in HTML / CSS / 
 
 ![screenshot of the final result](https://github.com/Offirmo/my.dev.to/raw/master/blog-posts/hello-world-in-html-css-js/assets/step-final.png)
 
-This tutorial is intended at total beginners. If this article ends up popular, I may write more later so please encourage me in the comments!
+This tutorial is intended at total beginners. If this article ends up popular, I may write more so please encourage me in the comments!
 
 ## HTML
 
 HTML is the backbone and the starting point of the web trifecta. Let's create our HTML hello world:
 
-1. Please create a folder named `hello-world`
+1. Create a folder named `hello-world`
 1. Inside this folder, create a text file named `index.html`
-1. Open this file in a text editor and paste the following content: `Hello, World!`
+1. Open this file in a [text editor](https://dev.to/priyanshucoderx/best-light-weight-code-editor-s-for-developer-s-9k6) and paste the following content: `Hello, World!`
 
-Your file editor may look like that: ([VS Code](https://code.visualstudio.com/) text editor)
+Your file editor may look like that: (if using [VS Code](https://code.visualstudio.com/))
 
 ![screenshot](https://github.com/Offirmo/my.dev.to/raw/master/blog-posts/hello-world-in-html-css-js/assets/howto--editor.png)
 
