@@ -306,7 +306,7 @@ Drag and drop the **folder** to the drop area. After a few seconds, it should tu
 ![screenshot](https://github.com/Offirmo/my.dev.to/raw/master/blog-posts/hello-world-in-html-css-js/assets/howto--netlify-drop--success.png)
 
 practical-swirles-98d887
-http://practical-swirles-98d887.netlify.app/
+https://practical-swirles-98d887.netlify.app/
 
 Click on the link: It should work!
 **_Well done!_**

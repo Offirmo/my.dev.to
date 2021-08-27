@@ -7,7 +7,7 @@ tags: architecture,codequality,learning,programming,
 series: Wisdom of the Ancients
 ---
 
-Basics of the Unix Philosophy [source](http://www.faqs.org/docs/artu/ch01s06.html)
+Basics of the Unix Philosophy [source](https://www.faqs.org/docs/artu/ch01s06.html)
 
 1. Rule of Modularity: Write simple parts connected by clean interfaces.
 1. Rule of Clarity: Clarity is better than cleverness.

@@ -38,7 +38,7 @@ An acquaintance of mine wanted to add JavaScript to their engineering toolbox bu
 1. **Event Loop and the Big Picture** (just the 1st one of the series for now) https://blog.insiderattack.net/event-loop-and-the-big-picture-nodejs-event-loop-part-1-1cb67a182810
 1. **33 Concepts Every JavaScript Developer Should Know** https://github.com/leonardomso/33-js-concepts
 1. **The Keys to JavaScript Mastery** https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95
-1. **JavaScript Garden = the most quirky parts of the JavaScript programming language** how to avoid common mistakes and subtle bugs, as well as performance issues and bad practices http://bonsaiden.github.io/JavaScript-Garden/
+1. **JavaScript Garden = the most quirky parts of the JavaScript programming language** how to avoid common mistakes and subtle bugs, as well as performance issues and bad practices https://bonsaiden.github.io/JavaScript-Garden/
 
 ## Advanced ecosystem
 
@@ -58,7 +58,7 @@ Choose your path: _frontend_ or _backend_. If you learn a bit of both, you can c
 
 1. **Roadmap** https://roadmap.sh/backend
 1. **Setting up a JS environment** https://medium.com/javascript-scene/setting-up-a-new-macbook-for-javascript-development-289df3f8f9
-1. **node basics** http://nodejs.org/
+1. **node basics** https://nodejs.org/
 1. **express** https://expressjs.com/
 1. NodeJS Event Loop:
    1. Event Loop and the Big Picture https://blog.insiderattack.net/event-loop-and-the-big-picture-nodejs-event-loop-part-1-1cb67a182810

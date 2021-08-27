@@ -13,7 +13,6 @@
 		"embedme:check": "yarn run embedme --verify",
 		"embedme:write": "yarn run embedme",
 		"dev-to-git": "dev-to-git",
-
 		"deploy": "dev-to-git"
 	},
 	"dependencies": {
