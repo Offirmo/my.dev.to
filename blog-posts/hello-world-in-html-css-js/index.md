@@ -288,14 +288,13 @@ setInterval(updateTime, 1000);
 ## Publishing!
 
 Right now, our HTML file is sitting on our hard drive.
-To share it with the world in the **old way**, we would have to share the files with recipients,
-ask them to download it (erk!) then to double-click on it (arg!).
+To share it with the world in the **old way**, we would have to share the files with recipients, ask them to download it (erk!) then to double-click on it (arg!).
 That's completely outdated in our days and age!
 
 Let's serve our web document! We'll use Netlify, a nice company that'll host our document for free!
 Head to [https://app.netlify.com/drop](https://app.netlify.com/drop). You should see something like that:
 
-![screenshot](https://github.com/Offirmo/my.dev.to/raw/master/blog-posts/hello-world-in-html-css-js/assets/howto--netlify-drop.png)
+![screenshot](https://github.com/Offirmo/my.dev.to/raw/master/blog-posts/hello-world-in-html-css-js/assets/howto--netlify-drop--2024.png)
 
 Now it's time to drag and drop your folder, which should look like that:
 
@@ -303,10 +302,10 @@ Now it's time to drag and drop your folder, which should look like that:
 
 Drag and drop the **folder** to the drop area. After a few seconds, it should turn to something like this:
 
-![screenshot](https://github.com/Offirmo/my.dev.to/raw/master/blog-posts/hello-world-in-html-css-js/assets/howto--netlify-drop--success.png)
+![screenshot](https://github.com/Offirmo/my.dev.to/raw/master/blog-posts/hello-world-in-html-css-js/assets/howto--netlify-drop--success--2024.png)
 
-practical-swirles-98d887
-https://practical-swirles-98d887.netlify.app/
+stalwart-gaufre-8eb150
+https://stalwart-gaufre-8eb150.netlify.app
 
 Click on the link: It should work!
 **_Well done!_**
