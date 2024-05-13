@@ -1,11 +1,8 @@
 ---
 published: false
 title: 'name of your blogpost'
-cover_image: 'https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-REPO/master/blog-posts/NAME-OF-YOUR-BLOG-POST/assets/your-asset.png'
-description: 'Description of the article'
-tags: tag1, tag2, tag3
-series:
-canonical_url:
+description: 'Description of the article for social media'
+tags: tag1 tag2 tag3
 ---
 
 This is an example of how to structure a blog post.
