@@ -1,8 +1,8 @@
 ---
 published: false
-title: 'HTML/CSS/JS Intro: Hello world'
+title: '"Hello, World!" in HTML / CSS / JS'
 description: 'An intro to HTML / CSS / JS for beginners'
-tags: beginners, html, css, javascript
+tags: webdev, beginners, html, javascript
 ---
 
 Welcome to the [Information Age](https://en.wikipedia.org/wiki/Information_Age):
