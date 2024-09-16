@@ -9,6 +9,7 @@
 ```bash
 yarn prettier:write
 yarn embedme:write
+DEV_TO_GIT_TOKEN=*** yarn run dev-to-git
 ```
 
 front matter
